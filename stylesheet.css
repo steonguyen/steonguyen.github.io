@@ -1,0 +1,21 @@
+.header {
+    background-color: lightsalmon;
+
+    margin: 20px 20% 20px 20%;
+
+    padding: 15px 5% 15px 5%;
+
+    text-align: center;
+    
+}
+
+#homework_title {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.italic_class {
+    font-size: 20px;
+    font-style: italic;
+}
+
+    
